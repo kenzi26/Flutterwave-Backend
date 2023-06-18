@@ -10,7 +10,7 @@ function payNow(e) {
       amount: document.getElementById("amount").value,
       currency: "USD",
 	  
-      //payment_options: "card,mobilemoney,ussd",
+      payment_options: "card,mobilemoney,ussd",
 	  
       customer: {
         email: document.getElementById("email").value,
