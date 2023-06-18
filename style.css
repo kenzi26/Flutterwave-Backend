@@ -57,31 +57,5 @@ body {
   
   input[type="submit"]:hover {
 	background-color: #45a049;
-  }
   
-  input[type="submit"]:focus {
-	outline: none;
-  }
-  
-  input[type="submit"]:active {
-	background-color: #3e8e41;
-  }
-  
-  /* Responsive Styles */
-  
-  @media screen and (max-width: 600px) {
-	.main-content {
-	  max-width: 100%;
-	  padding: 10px;
-	}
-  
-	input[type="text"],
-	input[type="number"] {
-	  padding: 6px;
-	}
-  
-	input[type="submit"] {
-	  padding: 8px;
-	  font-size: 14px;
-	}
 }	

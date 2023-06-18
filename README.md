@@ -1,1 +1,1 @@
-# flutterwave-javascript
+# flutterwave Integration Payment using -javascript
